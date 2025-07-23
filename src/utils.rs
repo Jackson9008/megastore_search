@@ -1,0 +1,1 @@
+// Utilitários para o projeto podem ser colocados aqui futuramente.
