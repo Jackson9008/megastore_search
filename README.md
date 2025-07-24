@@ -4,7 +4,7 @@
 
 Este projeto implementa um sistema de recomendação de produtos para a MegaStore, utilizando estruturas de dados avançadas em Rust. O sistema utiliza uma tabela hash para armazenamento eficiente dos produtos e um grafo para modelar as relações entre eles, permitindo recomendações personalizadas baseadas em conexões no grafo.
 
-O objetivo é fornecer uma solução eficiente e escalável para busca e recomendação de produtos, com funcionalidades como filtros por categoria, marca e cliente, além de suporte a múltiplos índices de busca.
+O objetivo é fornecer uma solução eficiente e escalável para busca e recomendação de produtos, com funcionalidades como filtros por categoria, marca, além de suporte a múltiplos índices de busca.
 
 ---
 
@@ -55,7 +55,7 @@ yaml
 
 ```bash
 git clone https://github.com/Jackson9008/MegaStore.git
-cd megastore_search
+cd megastore
 
 Compile o projeto:
 
