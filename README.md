@@ -54,7 +54,7 @@ yaml
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/Jackson9008/MegaStore.git
+git clone https://github.com/Jackson9008/megastore_search.git
 cd megastore
 
 Compile o projeto:
